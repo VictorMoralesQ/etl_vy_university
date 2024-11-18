@@ -1,0 +1,14 @@
+# actualiza este archovo requirements con los requisitos de tu proyecto
+requests
+numpy
+pandas
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+openpyxl
+datetime
+json
+hashlib
+threading
+datetime
+
